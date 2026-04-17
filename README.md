@@ -132,6 +132,15 @@ Vedi il file [LICENSE](./LICENSE) per i dettagli.
 
 ---
 
+## 🔒 Privacy & Cookie
+
+Il sito include una **Privacy Policy** e una **Cookie Policy** complete, conformi al GDPR.
+
+- [`privacy.html`](./privacy.html)
+- [`cookie.html`](./cookie.html)
+
+---
+
 ## 🙏 Ringraziamenti
 
 - [Swiper.js](https://swiperjs.com/) per il carosello touch-friendly
